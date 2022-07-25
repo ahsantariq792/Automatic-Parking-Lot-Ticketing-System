@@ -1,0 +1,16 @@
+.imgDiv{
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+}
+
+.imgDiv > img{
+    width: 100%;
+}
+.butt{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: -20px;
+}

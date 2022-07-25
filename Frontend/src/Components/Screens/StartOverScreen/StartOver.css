@@ -1,0 +1,13 @@
+.logo{
+    width: 250px;
+    height: 250px;
+}
+
+.safe{
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+
+.link{
+    text-decoration: none;
+}

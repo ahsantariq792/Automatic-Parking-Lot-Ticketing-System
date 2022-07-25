@@ -1,0 +1,86 @@
+.receiptHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.receiptLogo{
+    width: 100px;
+    height: 100px;
+}
+
+.heading{
+    text-align: center;
+    padding: 10px;
+}
+.details{
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.end{
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 0;
+}
+
+.receipt{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.barcode{
+    width: 2;
+}
+.address{
+    font-size: 12px;
+}
+
+.receiptSection{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50%;
+}
+
+.detailsBilling > p, .detailsBilling > h4{
+    padding: 10px;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+.payButt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 50px ;
+
+}
+
+.addressBilling{
+    font-size: 16px;
+}
+
+.mainHeaders{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+span{
+    font-weight: 600;
+}
+
+.print{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+}
